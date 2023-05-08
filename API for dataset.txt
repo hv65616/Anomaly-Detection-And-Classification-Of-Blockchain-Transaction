@@ -1,0 +1,4 @@
+API for Dataset Of Ethereum -  https://api.blockcypher.com/v1/eth/main/txs/
+API for view single blockchain block with a particular hash defined - https://blockchain.info/rawblock/0000000000000bae09a7a393a8acded75aa67e46cb81f7acaa5ad94f9eacd103
+API for single transaction of a paticular hash value - https://blockchain.info/rawtx/b6f6991d03df0e2e04dafffcd6bc418aac66049e2cd74b80f14ac86db1e3f0da
+API for single address with multiple transaction with a particular hash - https://blockchain.info/rawaddr/1AJbsFZ64EpEfS5UAjAfcUG8pH8Jn3rn1F
